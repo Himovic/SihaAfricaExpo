@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title>SIHA AFRICA Salon De La Santé, Du Bien-Être Et Du Tourisme Médical</title>
+    <title>SIHA AFRICA Salon De La Santé, e-Santé Du Bien-Être Et Du Tourisme Médical</title>
 
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="/index/images/favicon.png" type="image/png">
@@ -128,7 +128,7 @@
                         
                         <div class="header-content text-center">
                             <h2 class="header-title">SIHA AFRICA </h2>
-                            <h3 class="sub-title">Salon De La Santé, Du Bien-Être Et Du Tourisme Médical</h3>
+                            <h3 class="sub-title">Salon de la Santé, de la E-Santé, du Bien-Être Et du Tourisme Médical</h3>
                             <h3 class="sub-title">26, 27 et 28 Novembre 2020</h3>
                             <h3 class="sub-title">Hôtel Marriott de Constantine</h3>
                             <ul class="header-btn">
